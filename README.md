@@ -167,6 +167,8 @@ If you use this toolbox in your research, please cite our work:
 
 (Under Review)
 
+[![DOI](https://zenodo.org/badge/986034883.svg)](https://doi.org/10.5281/zenodo.15460799)
+
 ## Acknowledgments
 
 This toolbox extends the functionality of GazeAnalysisGambling by providing advanced spatial statistical methods for eye-tracking data analysis.
